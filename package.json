@@ -1,0 +1,11 @@
+{
+  "name": "Grade Calculator",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "grade-calculator.js",
+  "author": "Chad Loro",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
